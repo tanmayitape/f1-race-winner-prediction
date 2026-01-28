@@ -92,7 +92,7 @@ These features were deliberately chosen to reflect **information realistically a
 EDA was used to confirm that meaningful structure exists in pre-race data:
 - Race wins are highly concentrated among a small number of constructors
 - **Grid position shows a steep non-linear relationship** with win probability  
-  - Pole position carries close to a 50 percent win probability, followed by a sharp decline
+- Pole position carries close to a 50 percent win probability, followed by a sharp decline
 
 This confirmed that the problem is learnable under realistic constraints.
 
