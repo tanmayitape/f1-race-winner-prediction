@@ -1,23 +1,5 @@
 # Predicting Formula 1 Race Winners Using Pre-Race Machine Learning (2017–2024)
 
-**Flagship Project | Imbalanced Classification | Time-aware Validation | Interpretable ML**
-
-<p align="center">
-  <img src="assets/cover.png" width="100%" alt="F1 Winner Prediction Cover"/>
-</p>
-
-<p align="center">
-  <a href="#project-summary">Summary</a> ·
-  <a href="#the-core-question">Core Question</a> ·
-  <a href="#dataset">Dataset</a> ·
-  <a href="#approach">Approach</a> ·
-  <a href="#results">Results</a> ·
-  <a href="#what-drives-winning">What Drives Winning</a> ·
-  <a href="#how-to-run">How to Run</a>
-</p>
-
----
-
 ## Project Summary
 Formula 1 looks chaotic on Sunday, but the grid is not random. This project tests a simple, strict question:
 
